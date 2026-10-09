@@ -5,6 +5,7 @@ CENTR Task Force Document
 Authors:
 
 - Lavie Ben-Baruch – ISOC-IL
+- Maarten Bosteels - DNS Belgium
 - Alejandro Cañas Nieto - RED.es
 - Sebastian Castro - .ie
 - Simon Cox – Nominet
